@@ -45,32 +45,32 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^.kenalin(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("☑️ `putra wibu`")
+    await typew.edit("☑️ `Gery Sangean`")
     sleep(2)
-    await typew.edit("✅ `putra wibu`")
+    await typew.edit("✅ `Gery Sangean`")
     sleep(1)
-    await typew.edit("☑️ `duta stres`")
+    await typew.edit("☑️ `Kentot stres`")
     sleep(2)
-    await typew.edit("✅ `duta stres`")
+    await typew.edit("✅ `Kentot stres`")
     sleep(1)
-    await typew.edit("☑️ `fajar Gajelas`")
+    await typew.edit("☑️ `Aramine Cantik`")
     sleep(2)
-    await typew.edit("✅ `fajar Gajelas`")
+    await typew.edit("✅ `Aramine Cantik`")
     sleep(1)
-    await typew.edit("☑️ `ken Wibu Sangean`")
+    await typew.edit("☑️ `Ncan Ga Waras`")
     sleep(2)
-    await typew.edit("✅ `ken Wibu Sangean`")
+    await typew.edit("✅ `Ncan Ga Waras`")
     sleep(1)
-    await typew.edit("☑️ `askar Autis`")
+    await typew.edit("☑️ `Alex Ganteng`")
     sleep(2)
-    await typew.edit("✅ `askar Autis`")
+    await typew.edit("✅ `Alex Ganteng`")
     sleep(1)
     await typew.edit(
-        "`⚡ Cuma Tonic Yang Paling Waras, Baik Hati, Dan Tidak Sombong :v`"
+        "`⚡ Cuma Grey Yang Paling Waras, Baik Hati, Rajin Menabung Dan Tidak Sombong :v`"
     )
 
 
-# King Userbot Support
+# Aramine Userbot Support
 
 
 @register(outgoing=True, pattern="^.istigfar(?: |$)(.*)")
@@ -95,15 +95,15 @@ async def typewriter(typew):
     sleep(2)
     await typew.edit("**Baru pasang ucelbot ya?**")
     sleep(2)
-    await typew.edit("**Pantesan norak yahaha**")
+    await typew.edit("**Pantesan norak yahahaha papale papale bam bam gudu gudi bam bam**")
     sleep(2)
     await typew.edit("**Kalo mau coba coba command di gc pribadi aja**")
     sleep(2)
     await typew.edit("**Jangan di publik, jijik liatnya anjg:v**")
     sleep(2)
-    await typew.edit("**Intinya lo alay maen bot mulu**")
+    await typew.edit("**Intinya lo alay maen bot mulu awokawok**")
     sleep(2)
-    await typew.edit("**Lawriiiiiiieeeee:v**")
+    await typew.edit("**Lawriiiiiiieeeee ada ucel Bot:v**")
 
 
 # Alay maen bot mulu ngentot!
@@ -122,23 +122,23 @@ async def typewriter(typew):
     sleep(1.5)
     await typew.edit("**NI INGET**")
     sleep(1.5)
-    await typew.edit("**TANGANNYA AJA GA BISA DI PEGANG**")
+    await typew.edit("**TOKET NYA AJA GA BISA DI PEGANG**")
     sleep(1.5)
     await typew.edit("**APALAGI OMONGANNYA**")
     sleep(1.5)
     await typew.edit("**BHAHAHAHA**")
     sleep(1.5)
-    await typew.edit("**KASIAN MANA MASIH MUDA**")
+    await typew.edit("**KASIAN MANA MASIH MUDA, HET DAH **")
 
 
 @register(outgoing=True, pattern="^.perkenalkan(?: |$)(.*)")
 async def perkenalan(event):
     event.pattern_match.group(1)
-    await event.edit(f"`Hai Guys , Perkenalkan Nama Gw {DEFAULTUSER}`")
+    await event.edit(f"`Hai Guys , Perkenalkan Nama Gw GREY`")
     sleep(2)
-    await event.edit(f"`Gw Tinggal Di {WEATHER_DEFCITY}`")
+    await event.edit(f"`Gw Tinggal Di Jaksel Ye kan`")
     sleep(2)
-    await event.edit("`Salam Kenal...`")
+    await event.edit("`Salam Kenal YA ...`")
     sleep(2)
     await event.edit("`Udah Gitu Aja :v`")
 
@@ -152,21 +152,21 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("**Ehh Lu Mau Tau Gak?**")
     sleep(1)
-    await typew.edit("**Sih Tonic mukanya mirip babi😂**")
+    await typew.edit("**Sih Ryann mukanya mirip babi😂**")
     sleep(1)
     await typew.edit("**Ehh Gak Bercanda Deh😁**")
     sleep(1)
-    await typew.edit("**Emang Bener Sih Tonic Mukanya Kaya Babi🙈**")
+    await typew.edit("**Emang Bener Sih Ryann Mukanya Kaya Babi🙈**")
     sleep(1)
-    await typew.edit("**Ehh Engga Deh, Tonic Kan Ganteng Kaya Artis Korea😄**")
+    await typew.edit("**Ehh Engga Deh, Ryann Kan Ganteng Kaya Artis Korea😄**")
     sleep(1)
     await typew.edit("**Tapi Boong😂**")
     sleep(1)
     await typew.edit("**HAHAHAHAHAHAHA**")
     sleep(1)
-    await typew.edit("**Udah Ahh Takut Tonic Nangis Minta Balon😂**")
+    await typew.edit("**Udah Ahh Takut Ryann Nangis Minta Balon😂**")
     sleep(1)
-    await typew.edit("**Maaf Ya Tonic Ganteng Bercanda😁**")
+    await typew.edit("**Maaf Ya Ryann Ganteng Bercanda😁**")
     sleep(1)
     await typew.edit("**Tapi Bo'ong Hiyahiyahiya**")
 
@@ -189,8 +189,8 @@ CMD_HELP.update(
         \nUsage : Member Goblok\
         \n\n Cmd : `.kenalin`\
         \nUsage : Awokwok\
-        \n\n Cmd : `Tonic`\
-        \nUsage : buat ngeledek Tonic\
+        \n\n Cmd : `Ryann`\
+        \nUsage : buat ngeledek Ryann\
         \n\n Cmd : `.p`\
         \nUsage : Untuk Memberi Salam\
     "
