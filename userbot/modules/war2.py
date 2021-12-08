@@ -76,7 +76,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(
-        "**LO KAN HASIL ZINAH HASIL HUB TERLARANG NAH LO DI BUANG DI TONGSAMPAH NAH MAK LO YG SKRG KASIAN SAMA LO MKNY DI PUNGUT UDH LO CACAT KAKI CACAT TANGAN CACAT MUKA CACAT SEMUAHNY PARAH BET SI KONTOL LO JUGA CACATAN PASTI NANAHAN JUGA,UDH MENDING LO BUNDIR DEH JADI BEBAN ORG DOANG BEGO NGERUGIN MASYARKAT BEGO BOCAH HINA BOCAH HARAM BOCAH AUTIS KEK LO MENDING MATI AJA**"
+        "**LO KAN HASIL ZINAH HASIL HUB TERLARANG NAH LO DI BUANG DI TONG SAMPAH NAH MAK LO YG SKRG KASIAN SAMA LO MKNY DI PUNGUT UDH LO CACAT KAKI CACAT TANGAN CACAT MUKA CACAT SEMUAHNY PARAH BET SI KONTOL LO JUGA CACATAN PASTI NANAHAN JUGA,UDH MENDING LO BUNDIR DEH JADI BEBAN ORG DOANG BEGO NGERUGIN MASYARKAT BEGO BOCAH HINA BOCAH HARAM BOCAH AUTIS KEK LO MENDING MATI AJA**"
     )
 
 
@@ -115,7 +115,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^.title(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**OI ANAK TITLE**")
+    await typew.edit("**OI ANAK TITLE TILTE**")
     sleep(2)
     await typew.edit("**OOO INI YANG SOK JADI PAHLAWAN DI TELEGRAM?**")
     sleep(3)
@@ -143,13 +143,13 @@ async def typewriter(typew):
     sleep(3)
     await typew.edit("**ORANG TUA LO NOH ADA YANG NAGIH UTANG UDA LO BELA BELOM?**")
     sleep(4)
-    await typew.edit("**RELA NGUTANG DEMI NGIDUPIN LU**")
+    await typew.edit("**RELA NGELONTE DEMI NGIDUPIN LU**")
     sleep(2)
-    await typew.edit("**EH ANAKNYA MALAH NGEBELAIN GC GAJELAS HAHAHA**")
+    await typew.edit("**EH ANAKNYA MALAH NGEBELAIN GC SAMPAH GAJELAS HAHAHA**")
     sleep(3)
     await typew.edit("**MANA VIRTUAL LAGI, SOK JAGO LAGI DUH**")
     sleep(3)
-    await typew.edit("**SEMOGA CEPET SADAR YA HAHAHAHA**")
+    await typew.edit("**SEMOGA CEPET SADAR YA TOD HAHAHAHA**")
 
 
 CMD_HELP.update(
