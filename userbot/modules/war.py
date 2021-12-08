@@ -7,7 +7,7 @@ from userbot.events import register
 @register(outgoing=True, pattern=r"^\.jamet(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**WOII**")
+    await typew.edit("**𝐖𝐎𝐈𝐈 𝐀𝐍𝐉𝐄𝐍𝐆**")
     sleep(1.5)
     await typew.edit("**JAMET KONTOL**")
     sleep(1.5)
@@ -19,13 +19,13 @@ async def typewriter(typew):
     sleep(1.5)
     await typew.edit("**GAUSAH REPLY**")
     sleep(1.5)
-    await typew.edit("**KITA BUKAN KAWAN**")
+    await typew.edit("**KITA BUKAN KAWAN BABI**")
     sleep(1.5)
     await typew.edit("**GASUKA PC ANJING**")
     sleep(1.5)
-    await typew.edit("**BOCAH KAMPUNG**")
+    await typew.edit("**BOCAH KAMPUNGAN ANJINH**")
     sleep(1.5)
-    await typew.edit("**MENTAL TEMPE**")
+    await typew.edit("**MENTAL TEMPE,TAHU,BAKWAN,SUKRO**")
     sleep(1.5)
     await typew.edit("**LEMBEK NGENTOT🔥**")
 
@@ -34,7 +34,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(
-        "**PASANG PP DULU NGENTOT,BIAR ORANG-ORANG PADA TAU BETAPA HINA NYA MUKA LU 😆**"
+        "**PASANG PP DULU NGENTOT,BIAR ORANG-ORANG PADA TAU BETAPA HINA NYA MUKA LU YANG KEK BABI 😆**"
     )
 
 
@@ -47,7 +47,7 @@ async def typewriter(typew):
 @register(outgoing=True, pattern=r"^\.so(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**GAUSAH SOKAB SAMA GUA NGENTOT, LU BABU GA LEVEL!!**")
+    await typew.edit("**GAUSAH SOKAB SAMA GUA NGENTOT, LU BABU GA LEVEL ANJING !!**")
 
 
 @register(outgoing=True, pattern=r"^\.nb(?: |$)(.*)")
@@ -96,7 +96,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(
-        "**SOKAB BET LU GOBLOK, KAGA ADA ISTILAH NYA BAWAHAN TEMENAN AMA BOS AHAHAHA!!**"
+     "**SOKAB BET LU GOBLOK,ANJING BABI KUNYUK SETAN BANGSAT DAJAL MONYET ,MUKA LU KEK TUTUP TERMOS AE BELAGU TITIT!!**"
     )
 
 
