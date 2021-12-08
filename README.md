@@ -1,4 +1,4 @@
-# Tonic-Userbot Telegram
+# Aramine-Userbot Telegram
 
 </p>
 <p align="center">
