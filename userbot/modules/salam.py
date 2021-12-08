@@ -11,7 +11,7 @@ DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else uname().node
 @register(outgoing=True, pattern="^P(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("𝐀𝐬𝐬𝐚𝐥𝐚𝐦𝐮'𝐚𝐥𝐚𝐢𝐤𝐮𝐦...")
+    await typew.edit("◦•●◉✿ 𝐀𝐒𝐒𝐀𝐋𝐀𝐌𝐔'𝐀𝐋𝐀𝐈𝐊𝐔𝐌.... ✿◉●•◦")
 
 
 @register(outgoing=True, pattern="^.atg(?: |$)(.*)")
@@ -23,19 +23,19 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^L(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("𝐖𝐚'𝐚𝐥𝐚𝐢𝐤𝐮𝐦𝐬𝐚𝐥𝐚𝐦...")
+    await typew.edit("<:::::[]=¤ 𝙒𝘼'𝘼𝙇𝘼𝙄𝙆𝙐𝙈𝙎𝘼𝙇𝘼𝙈... (▀̿̿Ĺ̯̿̿▀̿ ̿)...")
 
 
 @register(outgoing=True, pattern="^.ast(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("𝐀𝐒𝐓𝐀𝐆𝐇𝐅𝐈𝐑𝐔𝐋𝐋𝐀𝐇......")
+    await typew.edit("𝐀𝐒𝐓𝐀𝐆𝐇𝐅𝐈𝐑𝐔𝐋𝐋𝐀𝐇......TOBAT")
 
 
 @register(outgoing=True, pattern="^K(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**KONTOLLU ITEM GAUSAH SOK NGAJAKIN VCS GOBLOK!!**")
+    await typew.edit("**KONTOLLU ITEM,BURIK,PANOAN GAUSAH SOK NGAJAKIN VCS GOBLOK!!**")
 
 
 @register(outgoing=True, pattern="^N(?: |$)(.*)")
@@ -53,45 +53,45 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^M(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**MASIH KECIL GAUSAH BLAGU LU NGENTOT!!**")
+    await typew.edit("**一═デ︻ **𝙈𝘼𝙎𝙄𝙃 𝙆𝙀𝘾𝙄𝙇 𝙂𝘼𝙐𝙎𝘼𝙃 𝘽𝙇𝘼𝙂𝙐 𝙇𝙐 𝙉𝙂𝙀𝙉𝙏𝙊𝙏 𝙈𝙐𝙆𝘼 𝙆𝙀𝙆 𝘽𝙊𝙊𝙇 𝙈𝙊𝙉𝙔𝙀𝙏 𝘼𝙉𝙅𝙄𝙉𝙂 ︻デ═一!!**")
 
 
 @register(outgoing=True, pattern="^Y(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(
-        "**MAKAN ULAT SAGU DIPINGGIR JALAN TOL, LO PADA GAUSAH BELAGU YA KONTOL**"
+        "**✎ (❁ᴗ͈ˬᴗ͈) ༉‧ 𝐌𝐀𝐊𝐀𝐍 𝐔𝐋𝐀𝐓 𝐒𝐀𝐆𝐔 𝐃𝐈𝐏𝐈𝐍𝐆𝐆𝐈𝐑 𝐉𝐀𝐋𝐀𝐍 𝐓𝐎𝐋, 𝐋𝐎 𝐏𝐀𝐃𝐀 𝐆𝐀𝐔𝐒𝐀𝐇 𝐁𝐄𝐋𝐀𝐆𝐔 𝐘𝐀 𝐊𝐎𝐍𝐓𝐎𝐋 ♡*.✧**"
     )
 
 
 @register(outgoing=True, pattern="^C(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**KAN UDAH GUA BILANG??MAKANYA JANGAN NGEYEL GOBLOK!!**")
+    await typew.edit("**]|I{•------» 𝐊𝐀𝐍 𝐔𝐃𝐀𝐇 𝐆𝐔𝐀 𝐁𝐈𝐋𝐀𝐍𝐆??𝐌𝐀𝐊𝐀𝐍𝐘𝐀 𝐉𝐀𝐍𝐆𝐀𝐍 𝐍𝐆𝐄𝐘𝐄𝐋 𝐆𝐎𝐁𝐋𝐎𝐊 «------•}I|[!!**")
 
 
 @register(outgoing=True, pattern="^S(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**GAUSAH SOKAP DEH KAMU!!**")
+    await typew.edit("**𝐆𝐀𝐔𝐒𝐀𝐇 𝐒𝐎𝐊𝐀𝐏 𝐃𝐄𝐇 𝐊𝐀𝐌𝐔!!**")
 
 
 @register(outgoing=True, pattern="^V(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**MACAM BAGUS AE LU BEGITU SETDAH!!**")
+    await typew.edit("**<:::::[]=¤ 𝘉𝘐𝘈𝘙 𝘈𝘗𝘈 𝘓𝘜 𝘉𝘌𝘎𝘐𝘛𝘜 𝘌𝘉𝘜𝘡𝘌𝘋𝘋𝘋𝘋!!! (▀̿̿Ĺ̯̿̿▀̿ ̿)!!**")
 
 
 @register(outgoing=True, pattern="^J(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**MAAF BUKAN JAGOAN HAHAHAHA!!**")
+    await typew.edit("**»»𝐌𝐀𝐀𝐅 𝐁𝐔𝐊𝐀𝐍 𝐉𝐀𝐆𝐎𝐀𝐍 𝐎𝐌 𝐇𝐀𝐇𝐀𝐇𝐀𝐇𝐀««!!**")
 
 
 @register(outgoing=True, pattern="^A(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**BISMILLAH SLEEP CALL!!😁**")
+    await typew.edit("**BISMILLAH SLEEP CROTTTT!!!🥵 🥵 🥵**")
 
 
 @register(outgoing=True, pattern="^X(?: |$)(.*)")
@@ -104,7 +104,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(
-        "**War War Tai anjing, Ketrigger minta sharelok, Udah di sharelok Ga nyamperin,Keras di sosmed Bhakss...**"
+        "** 𝐖𝐚𝐫 𝐖𝐚𝐫 𝐓𝐚𝐢 𝐚𝐧𝐣𝐢𝐧𝐠, 𝐊𝐞𝐭𝐫𝐢𝐠𝐠𝐞𝐫 𝐦𝐢𝐧𝐭𝐚 𝐬𝐡𝐚𝐫𝐞𝐥𝐨𝐤, 𝐔𝐝𝐚𝐡 𝐝𝐢 𝐬𝐡𝐚𝐫𝐞𝐥𝐨𝐤 𝐆𝐚 𝐧𝐲𝐚𝐦𝐩𝐞𝐫𝐢𝐧,𝐊𝐞𝐫𝐚𝐬 𝐝𝐢 𝐬𝐨𝐬𝐦𝐞𝐝 𝐁𝐡𝐚𝐤𝐬𝐬..**"
     )
 
 
@@ -117,13 +117,13 @@ async def typewriter(typew):
 @register(outgoing=True, pattern="^O(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**MAIN BOT MULU LU NGENTOT, KESANNYA NORAK GOBLOK!!**")
+    await typew.edit("**MAIN BOT MULU LU NGENTOT, KESANNYA NORAK BET GOBLOK!!**")
 
 
 @register(outgoing=True, pattern="^G(?: |$)(.*)")
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("**GA KEREN LU BEGITU NGENTOT!**")
+    await typew.edit("**GA KEREN LU BEGITU NGENTOT ANJING BABI BANGSAT KUNYUK SETAN!!!!**")
 
 
 CMD_HELP.update(
