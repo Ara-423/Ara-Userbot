@@ -772,7 +772,7 @@ GAMBAR_TITIT = """
     😋😋       😋😋
 """
 
-GAMBAR_OK = ""
+GAMBAR_OK = """
  _____    
 /  _/\\  
 | / oo
